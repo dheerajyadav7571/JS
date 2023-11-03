@@ -33,3 +33,5 @@ userTwo.upi="User2@ybl"
 console.log(userOne);
 console.log(userTwo);
 
+//stack(primitive )
+//heap(non primitive)
